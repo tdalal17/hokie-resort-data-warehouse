@@ -1,0 +1,43 @@
+# Microsoft Office temporary files
+~$*.docx
+~$*.doc
+~$*.pptx
+~$*.ppt
+~$*.xlsx
+~$*.xls
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Database files (if any)
+*.mdb
+*.accdb
+*.db
+*.sqlite
+*.sqlite3
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
