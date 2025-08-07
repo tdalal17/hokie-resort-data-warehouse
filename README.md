@@ -1,4 +1,4 @@
-# Hokie Resort Data Warehouse Project (ACIS 5504)
+# Hotal Resort Data Warehouse Project
 
 A comprehensive data warehouse implementation for a hotel resort chain, demonstrating dimensional modeling, ETL processes, and business analytics.
 
@@ -113,8 +113,3 @@ This data warehouse enables Hokie Resort to:
 - ETL procedures include error handling and data validation
 - Queries utilize advanced SQL features for comprehensive analytics
 
----
-
-**Course**: ACIS 5504 - Data Warehousing  
-**Institution**: Virginia Tech  
-**Project Type**: Academic Capstone Project
